@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I'm full stack .Net developer focusing on Blazor, Asp .Net REST API, IdentityServer4
+<h3>I'm full stack dotnet developer focusing on Blazor, Asp .Net REST API, IdentityServer4
 </h3>
 
 <!--
