@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h3>I'm full stack dotnet developer focusing on Blazor, Asp .Net REST API, IdentityServer4
-</h3>
+<h3>I'm full stack dotnet developer focusing on Blazor, Asp .Net REST API, IdentityServer4</h3>
+
 
 <!--
 **SergeyDavidovich/SergeyDavidovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
