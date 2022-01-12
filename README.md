@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I'm full stack dotnet developer focusing on Blazor, Asp .Net REST API, IdentityServer4</h3>
+<h3>I'm full stack dotnet developer based on Domain Driven Design and focusing on Blazor, Asp .Net REST API, IdentityServer4</h3>
 
 
 <!--
