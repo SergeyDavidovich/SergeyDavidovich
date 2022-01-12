@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>I'm full stack dotnet developer based on Domain Driven Design and focusing on Asp Net Core, Blazor, Abp.io</h3>
+<h3>I'm full stack dotnet developer based on Domain Driven Development and focusing on Asp Net Core, Blazor, Abp.io</h3>
 
 
 <!--
