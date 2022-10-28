@@ -3,7 +3,7 @@
 <h3>I'm full stack dotnet developer based on Domain Driven Development and focusing on Asp Net Core, Blazor, Abp.io</h3>
 
 ---
-### [Chat with me](https://t.me/Writesd) about app development, services, the ABP Framework and more!
+### [Chat with me](https://join.skype.com/invite/bzmjtChofezi) (https://t.me/Writesd) about app development, services, the ABP Framework and more!
 
 <!--
 **SergeyDavidovich/SergeyDavidovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
