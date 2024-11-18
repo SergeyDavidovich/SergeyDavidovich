@@ -1,9 +1,10 @@
 ### Hi there 👋
 ---
-#### I'm full stack dotnet developer based on Domain Driven Development and focusing on Asp Net Core, Blazor, TailwindCSS, Abp.io and more ...</h3>
+#### I'm full stack dotnet developer based on Domain Driven Development and focusing on Asp Net Core, Blazor, TailwindCSS, Abp.io and more</h3>
 
 ---
 #### Chat with me: [Skype:](https://join.skype.com/invite/bzmjtChofezi) or [Telegram](https://t.me/Writesd) or [X](https://x.com/kriwobokow)
+#### Feel free to write me on [e-mail](mailto:weitesd@hotmail.com)
 
 <!--
 **SergeyDavidovich/SergeyDavidovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
